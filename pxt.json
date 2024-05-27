@@ -8,7 +8,8 @@
         "main.ts",
         "README.md",
         "custom.ts",
-        "blocks.jres"
+        "blocks.jres",
+        "tutorial.md"
     ],
     "testFiles": [
         "test.ts"
