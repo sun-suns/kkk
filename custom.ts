@@ -7,11 +7,9 @@
 enum Block {
     //% blockIdentity="blocks.block" enumval=2 block="Grass Block"
     //% jres alias=GRASS
-    //% blockHidden=true
     Grass = 2,
     //% blockIdentity="blocks.block" enumval=0 block="Air"
     //% jres alias=AIR
-    //% blockHidden=true
     Air = 0,
     //% blockIdentity="blocks.block" enumval=1 block="Stone"
     //% jres alias=STONE
