@@ -2,9 +2,7 @@
     "name": "kkk",
     "version": "0.0.1",
     "description": "",
-    "dependencies": {
-        
-    },
+    "dependencies": {},
     "files": [
         "main.blocks",
         "main.ts",
