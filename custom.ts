@@ -4,27 +4,6 @@
 * 詳しくはこちらを参照してください：https://minecraft.makecode.com/blocks/custom
 */
 
-enum Block {
-    //% blockIdentity="blocks.block" enumval=2 block="Grass Block"
-    //% jres alias=GRASS
-    Grass = 2,
-    //% blockIdentity="blocks.block" enumval=0 block="Air"
-    //% jres alias=AIR
-    Air = 0,
-    //% blockIdentity="blocks.block" enumval=1 block="Stone"
-    //% jres alias=STONE
-    Stone = 1,
-    //% blockIdentity="blocks.block" enumval=65537 block="Granite"
-    //% jres alias=GRANITE
-    Granite = 65537,
-    //% blockIdentity="blocks.block" enumval=131073 block="Polished Granite"
-    //% jres alias=POLISHED_GRANITE
-    PolishedGranite = 131073,
-    //% blockIdentity="blocks.block" enumval=196609 block="Diorite"
-    //% jres alias=DIORITE
-    Diorite = 196609
-}
-
 //% weight=999 color=#c71585 icon="\uf1b3"
 //% block="体験（たいけん）"
 namespace lesson0 {
